@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ashen First App</string>
+    <string name="action_settings">Settings</string>
+    <string name="SignInTitle">Sign In Here!</string>
+    <string name="loginButtonText">Login</string>
+    <string name="mike_erhmentraut">Mike Erhmentraut</string>
+    <string name="gotologinbutton">Go to Sign In</string>
+</resources>
